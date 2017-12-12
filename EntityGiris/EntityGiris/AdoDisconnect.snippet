@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CodeSnippet Format="1.0.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <Header>
+    <!-- Ctrl+k+s ile surround with snippet ile oluşturduk alttarafı-->
+    <Title>Ado Disconnect Bağlantısı</Title>
+    <Author>Oğuz Atlı</Author>
+    <Shortcut>AdoDisconnect</Shortcut>
+    <Description>SQL DataAdapter connection için kolaylık saglar</Description>
+    <SnippetTypes>
+      <SnippetType>SurroundsWith</SnippetType>
+      <SnippetType>Expansion</SnippetType>
+    </SnippetTypes>
+  </Header>
+  <Snippet>
+    <Declarations>
+      <Literal>
+        <ID>db</ID>
+        <Default>Northwind</Default>
+      </Literal>
+      <Literal>
+        <ID>table</ID>
+        <Default>Employees</Default>
+      </Literal>
+      <Literal>
+        <ID>controller</ID>
+        <Default>Listbox1</Default>
+      </Literal>
+      <Literal>
+        <ID>dispMember</ID>
+        <Default>DisplayColumn</Default>
+      </Literal>
+      <Literal>
+        <ID>valueMember</ID>
+        <Default>ValueColumn</Default>
+      </Literal>
+    </Declarations>
+    <Code Language="CSharp">
+      <![CDATA[SqlDataAdapter dap = new SqlDataAdapter("Select * from $table$", "Server=WISSEN-PC;Database=$db$;User Id=sa; Password = 1234;");
+          DataTable dt = new DataTable();
+           dap.Fill(ds);
+           $controller$.DataSource=dt;
+            $controller$.DisplayMember="$dispMember$";
+            $controller$.ValueMember="valueMember";
+            }]]>
+    </Code>
+  </Snippet>
+</CodeSnippet>

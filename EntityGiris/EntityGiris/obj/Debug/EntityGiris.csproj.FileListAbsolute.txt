@@ -1,0 +1,9 @@
+C:\Users\Oğuz ATLI\Desktop\Demo\EntityGiris\EntityGiris\bin\Debug\EntityGiris.exe.config
+C:\Users\Oğuz ATLI\Desktop\Demo\EntityGiris\EntityGiris\bin\Debug\EntityGiris.exe
+C:\Users\Oğuz ATLI\Desktop\Demo\EntityGiris\EntityGiris\bin\Debug\EntityGiris.pdb
+C:\Users\Oğuz ATLI\Desktop\Demo\EntityGiris\EntityGiris\obj\Debug\EntityGiris.csprojResolveAssemblyReference.cache
+C:\Users\Oğuz ATLI\Desktop\Demo\EntityGiris\EntityGiris\obj\Debug\EntityGiris.Form1.resources
+C:\Users\Oğuz ATLI\Desktop\Demo\EntityGiris\EntityGiris\obj\Debug\EntityGiris.Properties.Resources.resources
+C:\Users\Oğuz ATLI\Desktop\Demo\EntityGiris\EntityGiris\obj\Debug\EntityGiris.csproj.GenerateResource.Cache
+C:\Users\Oğuz ATLI\Desktop\Demo\EntityGiris\EntityGiris\obj\Debug\EntityGiris.exe
+C:\Users\Oğuz ATLI\Desktop\Demo\EntityGiris\EntityGiris\obj\Debug\EntityGiris.pdb

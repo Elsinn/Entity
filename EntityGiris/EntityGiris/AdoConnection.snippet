@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CodeSnippet Format="1.0.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <Header>
+    <Title>Ado Baglantısı</Title>
+    <Author>Oguz Atlı</Author>
+    <Shortcut>AdoConnect</Shortcut>
+    <Description>Sql Connection kodu icin kolaylık saglar</Description>
+    <SnippetTypes>
+      <SnippetType>SurroundsWith</SnippetType>
+      <SnippetType>Expansion</SnippetType>
+    </SnippetTypes>
+  </Header>
+  <Snippet>
+    <Declarations>
+      <Literal>
+        <ID>db</ID>
+        <Default>Northwind</Default>
+      </Literal>
+      <Literal>
+        <ID>table</ID>
+        <Default>Employees</Default>
+      </Literal>
+    </Declarations>
+    <Code Language="CSharp">
+      <![CDATA[SqlConnection cnn = new SqlConnection("Server=WISSEN-PC;Database=$db$;User Id=sa; Password = 1234;");
+            SqlCommand cmd = new SqlCommand("Select * from $table$",cnn);
+          
+            if (cnn.State==ConnectionState.Closed)
+            {
+                cnn.Open();
+            }
+            SqlDataReader dr = cmd.ExecuteReader();
+            if (dr.HasRows)
+            {
+                while (dr.Read())
+                {
+                    
+                }
+            }]]>
+    </Code>
+  </Snippet>
+</CodeSnippet>

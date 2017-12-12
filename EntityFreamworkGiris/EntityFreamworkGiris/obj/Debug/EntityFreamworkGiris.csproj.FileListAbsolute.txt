@@ -1,0 +1,11 @@
+C:\Users\Oğuz ATLI\Desktop\Demo\EntityFreamworkGiris\EntityFreamworkGiris\bin\Debug\EntityFreamworkGiris.exe.config
+C:\Users\Oğuz ATLI\Desktop\Demo\EntityFreamworkGiris\EntityFreamworkGiris\obj\Debug\EntityFreamworkGiris.csprojResolveAssemblyReference.cache
+C:\Users\Oğuz ATLI\Desktop\Demo\EntityFreamworkGiris\EntityFreamworkGiris\obj\Debug\EntityFreamworkGiris.Form1.resources
+C:\Users\Oğuz ATLI\Desktop\Demo\EntityFreamworkGiris\EntityFreamworkGiris\obj\Debug\EntityFreamworkGiris.Properties.Resources.resources
+C:\Users\Oğuz ATLI\Desktop\Demo\EntityFreamworkGiris\EntityFreamworkGiris\obj\Debug\EntityFreamworkGiris.csproj.GenerateResource.Cache
+C:\Users\Oğuz ATLI\Desktop\Demo\EntityFreamworkGiris\EntityFreamworkGiris\bin\Debug\EntityFreamworkGiris.exe
+C:\Users\Oğuz ATLI\Desktop\Demo\EntityFreamworkGiris\EntityFreamworkGiris\bin\Debug\EntityFreamworkGiris.pdb
+C:\Users\Oğuz ATLI\Desktop\Demo\EntityFreamworkGiris\EntityFreamworkGiris\bin\Debug\EntityFramework.dll
+C:\Users\Oğuz ATLI\Desktop\Demo\EntityFreamworkGiris\EntityFreamworkGiris\bin\Debug\EntityFramework.xml
+C:\Users\Oğuz ATLI\Desktop\Demo\EntityFreamworkGiris\EntityFreamworkGiris\obj\Debug\EntityFreamworkGiris.exe
+C:\Users\Oğuz ATLI\Desktop\Demo\EntityFreamworkGiris\EntityFreamworkGiris\obj\Debug\EntityFreamworkGiris.pdb

@@ -1,0 +1,11 @@
+c:\users\wissen\documents\visual studio 2015\Projects\EntitySorgu\EntitySorgu\bin\Debug\EntitySorgu.exe.config
+c:\users\wissen\documents\visual studio 2015\Projects\EntitySorgu\EntitySorgu\bin\Debug\EntitySorgu.exe
+c:\users\wissen\documents\visual studio 2015\Projects\EntitySorgu\EntitySorgu\bin\Debug\EntitySorgu.pdb
+c:\users\wissen\documents\visual studio 2015\Projects\EntitySorgu\EntitySorgu\bin\Debug\EntityFramework.dll
+c:\users\wissen\documents\visual studio 2015\Projects\EntitySorgu\EntitySorgu\bin\Debug\EntityFramework.xml
+c:\users\wissen\documents\visual studio 2015\Projects\EntitySorgu\EntitySorgu\obj\Debug\EntitySorgu.csprojResolveAssemblyReference.cache
+c:\users\wissen\documents\visual studio 2015\Projects\EntitySorgu\EntitySorgu\obj\Debug\EntitySorgu.Form1.resources
+c:\users\wissen\documents\visual studio 2015\Projects\EntitySorgu\EntitySorgu\obj\Debug\EntitySorgu.Properties.Resources.resources
+c:\users\wissen\documents\visual studio 2015\Projects\EntitySorgu\EntitySorgu\obj\Debug\EntitySorgu.csproj.GenerateResource.Cache
+c:\users\wissen\documents\visual studio 2015\Projects\EntitySorgu\EntitySorgu\obj\Debug\EntitySorgu.exe
+c:\users\wissen\documents\visual studio 2015\Projects\EntitySorgu\EntitySorgu\obj\Debug\EntitySorgu.pdb

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TelRehberiModelStoreContainer" CdmEntityContainer="TelRehberiEntities">
+    <EntitySetMapping Name="Kisilers">
+      <EntityTypeMapping TypeName="TelRehberiModel.Kisiler">
+        <MappingFragment StoreEntitySet="Kisiler">
+          <ScalarProperty Name="KisiID" ColumnName="KisiID" />
+          <ScalarProperty Name="KisiAdi" ColumnName="KisiAdi" />
+          <ScalarProperty Name="KisiSoyadi" ColumnName="KisiSoyadi" />
+          <ScalarProperty Name="TelNo" ColumnName="TelNo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

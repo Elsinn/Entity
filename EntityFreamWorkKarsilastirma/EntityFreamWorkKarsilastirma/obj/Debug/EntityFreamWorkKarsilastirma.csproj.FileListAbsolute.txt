@@ -1,0 +1,11 @@
+C:\Users\Oğuz ATLI\Desktop\Demo\EntityFreamWorkKarsilastirma\EntityFreamWorkKarsilastirma\bin\Debug\EntityFreamWorkKarsilastirma.exe.config
+C:\Users\Oğuz ATLI\Desktop\Demo\EntityFreamWorkKarsilastirma\EntityFreamWorkKarsilastirma\bin\Debug\EntityFreamWorkKarsilastirma.exe
+C:\Users\Oğuz ATLI\Desktop\Demo\EntityFreamWorkKarsilastirma\EntityFreamWorkKarsilastirma\bin\Debug\EntityFreamWorkKarsilastirma.pdb
+C:\Users\Oğuz ATLI\Desktop\Demo\EntityFreamWorkKarsilastirma\EntityFreamWorkKarsilastirma\bin\Debug\EntityFramework.dll
+C:\Users\Oğuz ATLI\Desktop\Demo\EntityFreamWorkKarsilastirma\EntityFreamWorkKarsilastirma\bin\Debug\EntityFramework.xml
+C:\Users\Oğuz ATLI\Desktop\Demo\EntityFreamWorkKarsilastirma\EntityFreamWorkKarsilastirma\obj\Debug\EntityFreamWorkKarsilastirma.csprojResolveAssemblyReference.cache
+C:\Users\Oğuz ATLI\Desktop\Demo\EntityFreamWorkKarsilastirma\EntityFreamWorkKarsilastirma\obj\Debug\EntityFreamWorkKarsilastirma.Form1.resources
+C:\Users\Oğuz ATLI\Desktop\Demo\EntityFreamWorkKarsilastirma\EntityFreamWorkKarsilastirma\obj\Debug\EntityFreamWorkKarsilastirma.Properties.Resources.resources
+C:\Users\Oğuz ATLI\Desktop\Demo\EntityFreamWorkKarsilastirma\EntityFreamWorkKarsilastirma\obj\Debug\EntityFreamWorkKarsilastirma.csproj.GenerateResource.Cache
+C:\Users\Oğuz ATLI\Desktop\Demo\EntityFreamWorkKarsilastirma\EntityFreamWorkKarsilastirma\obj\Debug\EntityFreamWorkKarsilastirma.exe
+C:\Users\Oğuz ATLI\Desktop\Demo\EntityFreamWorkKarsilastirma\EntityFreamWorkKarsilastirma\obj\Debug\EntityFreamWorkKarsilastirma.pdb

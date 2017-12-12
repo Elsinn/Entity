@@ -1,0 +1,11 @@
+c:\users\wissen\documents\visual studio 2015\Projects\EntityFreamwork1\EntityFreamwork1\bin\Debug\EntityFreamwork1.exe.config
+c:\users\wissen\documents\visual studio 2015\Projects\EntityFreamwork1\EntityFreamwork1\bin\Debug\EntityFreamwork1.exe
+c:\users\wissen\documents\visual studio 2015\Projects\EntityFreamwork1\EntityFreamwork1\bin\Debug\EntityFreamwork1.pdb
+c:\users\wissen\documents\visual studio 2015\Projects\EntityFreamwork1\EntityFreamwork1\bin\Debug\EntityFramework.dll
+c:\users\wissen\documents\visual studio 2015\Projects\EntityFreamwork1\EntityFreamwork1\bin\Debug\EntityFramework.xml
+c:\users\wissen\documents\visual studio 2015\Projects\EntityFreamwork1\EntityFreamwork1\obj\Debug\EntityFreamwork1.Form1.resources
+c:\users\wissen\documents\visual studio 2015\Projects\EntityFreamwork1\EntityFreamwork1\obj\Debug\EntityFreamwork1.Properties.Resources.resources
+c:\users\wissen\documents\visual studio 2015\Projects\EntityFreamwork1\EntityFreamwork1\obj\Debug\EntityFreamwork1.csproj.GenerateResource.Cache
+c:\users\wissen\documents\visual studio 2015\Projects\EntityFreamwork1\EntityFreamwork1\obj\Debug\EntityFreamwork1.exe
+c:\users\wissen\documents\visual studio 2015\Projects\EntityFreamwork1\EntityFreamwork1\obj\Debug\EntityFreamwork1.pdb
+C:\Users\Wissen\documents\visual studio 2015\Projects\EntityFreamwork1\EntityFreamwork1\obj\Debug\EntityFreamwork1.csprojResolveAssemblyReference.cache
